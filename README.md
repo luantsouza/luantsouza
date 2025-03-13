@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Luan Souza</h1>
-<h3 align="center">A brazilian front-end student</h3>
+<h1 align="center">Hi 👋, I'm Luan</h1>
+<h3 align="center">A curious progamming student</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **luansouzacontato@outlook.com**
 
